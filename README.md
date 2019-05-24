@@ -1,6 +1,7 @@
 # vue-tssample
 
-VueCliのTypescriptサンプル
+VueCliのTypescriptサンプル  
+[参考](https://mae.chab.in/archives/60167)
 
 
 ## Project setup
